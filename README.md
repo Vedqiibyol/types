@@ -28,8 +28,17 @@ Types implement different types:
 
 - `int64`, a 64 bit signed integer.
 
-------
 Types also define a boolean type, for the C programming language.
+
+------
+
+### Installation
+
+**Linux and BSD only** , run the `setup.sh` file.
+
+For Microsoft Windows users, put the types into your project folder.
+
+------
 
 ###### version 1.0.0
 
