@@ -1,0 +1,31 @@
+// types
+
+#pragma once
+
+typedef unsigned char      uint8;
+typedef unsigned short     uint16;
+typedef unsigned long      uint32;
+typedef unsigned long long uint64;
+
+typedef unsigned char      u8;
+typedef unsigned short     u16;
+typedef unsigned long      u32;
+typedef unsigned long long u64;
+
+typedef unsigned char      byte;
+
+typedef signed char        int8;
+typedef signed short       int16;
+typedef signed long        int32;
+typedef signed long long   int64;
+
+
+typedef unsigned int uint;
+
+#ifndef __cplusplus
+	typedef enum BOOL {
+		false,
+		true
+		enum
+	} bool;
+#endif
